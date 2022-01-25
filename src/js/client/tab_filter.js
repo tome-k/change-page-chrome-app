@@ -27,3 +27,5 @@ module.exports = function(scorer) {
     });
   };
 };
+
+let testValueSwitcher = 0;
